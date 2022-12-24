@@ -1,6 +1,6 @@
 export type VectorObj = {
   [key: string]: number;
-}
+};
 
 export type VectorArr = number[];
 
