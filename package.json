@@ -1,13 +1,13 @@
 {
   "name": "cosim",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Compute the cosine similarity of two vectors. Fully typed, 0 dependencies.",
   "main": "index.js",
   "scripts": {
     "build": "tsup",
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": ["cosine", "cosine-similarity", "compute-cosine-similarity", "llm", "vector", "AI", "embedding"],
   "author": "Dom Eccleston",
   "license": "ISC",
   "devDependencies": {
