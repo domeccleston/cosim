@@ -53,4 +53,5 @@ To contribute:
 2. Make your changes in `src`
 3. `pnpm build`
 4. Add new tests in `test`
-5. Submit a PR 🥳
+5. `pnpm test`
+6. Submit a PR 🥳
