@@ -44,6 +44,18 @@ The library also exposes its helper for computing the dot product of two vectors
   expect(dotProduct(vector1, vector2)).toEqual(11);
 ```
 
+## Contributing
+
+This uses `pnpm` for package management and `tsup` for bundling.
+
+To contribute:
+
+1. `pnpm install`
+2. Make your changes in `src`
+3. `pnpm build`
+4. Add new tests in `test`
+5. Submit a PR 🥳
+
 ## Todo
 
 - [ ] Test with very large arrays
