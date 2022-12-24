@@ -39,9 +39,8 @@ const result = similarity(
 The library also exposes its helper for computing the dot product of two vectors:
 
 ```ts
-  const vector1 = { x: -1, y: -2 };
-  const vector2 = { x: -3, y: -4 };
-  expect(dotProduct(vector1, vector2)).toEqual(11);
+  const result = dotProduct({ x: -1, y: -2 }, { x: -3, y: -4 });
+  console.log(result) // 11
 ```
 
 ## Contributing
