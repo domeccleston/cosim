@@ -36,7 +36,7 @@ const result = similarity(
 ).toFixed(3); // 0.672
 ```
 
-The library also exposes its helper for computing the dot product of two vectors
+The library also exposes its helper for computing the dot product of two vectors:
 
 ```ts
   const vector1 = { x: -1, y: -2 };
