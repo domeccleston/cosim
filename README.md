@@ -55,8 +55,3 @@ To contribute:
 3. `pnpm build`
 4. Add new tests in `test`
 5. Submit a PR 🥳
-
-## Todo
-
-- [ ] Test with very large arrays
-- [ ] Compare with Python equivalents to ensure correctness
