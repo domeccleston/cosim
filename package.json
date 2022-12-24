@@ -1,6 +1,6 @@
 {
   "name": "cosim",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Compute the cosine similarity of two vectors. Fully typed, 0 dependencies.",
   "main": "index.js",
   "scripts": {
