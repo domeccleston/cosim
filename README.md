@@ -1,6 +1,6 @@
 # Cosim
 
-Compute the cosine similarity of two vectors. Useful when working with LLMs. Fully typed, zero dependencies.
+Compute the cosine similarity of two vectors. Fully typed, zero dependencies.
 
 ## Install
 
